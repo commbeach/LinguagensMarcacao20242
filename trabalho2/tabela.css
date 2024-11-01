@@ -1,0 +1,21 @@
+table {
+    text-align: center; 
+    border: solid 1px #ddd; 
+    width: 400px; 
+    margin: auto; 
+}
+
+td, th {
+    padding: 10px; 
+    text-align: left; 
+    border-bottom: 1px solid #ddd; 
+}
+
+table img {
+    border-radius: 25px; 
+    width: 100%; 
+}
+
+tr:hover {
+    background-color: #f2f2f2; 
+}
